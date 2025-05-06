@@ -12,7 +12,7 @@ This repository contains the following folders:
 
 # LANDIS Inputs
 
-These are the primary inputs for running the LANDIS-II model for the TCSI landscape.  LANDIS inputs include both maps and text files, dependent upon the extensions selected.
+These are the primary inputs for running the LANDIS-II model.  LANDIS inputs include both maps and text files, dependent upon the extensions selected.
 
 # LANDIS Installers
 
